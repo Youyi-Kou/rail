@@ -1,0 +1,9 @@
+﻿  DataSolveTest_Console.cpp
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\dataentities.h(942): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\datasolvetest_console.cpp(13): error C2660: “fopen_s”: 函数不接受 2 个参数
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(97): note: 参见“fopen_s”的声明
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\datasolvetest_console.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\datasolvetest_console\datasolvetest_console.cpp(94): warning C4018: “<”: 有符号/无符号不匹配

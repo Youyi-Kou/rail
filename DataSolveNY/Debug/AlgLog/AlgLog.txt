@@ -1,0 +1,40 @@
+10:04:58 SetFile D:/00-钢轨探伤/rail_fusion/0三合一数据采集/20230215/230215Z00013_0000_21P1001/230215Z00013_0000_21P1001.ptB
+10:04:58 SetFile Finish
+10:04:58 Begin Analyse
+10:04:58 AnalyseThread Begin
+10:04:58 LoseCouple Finish
+10:04:58 GetAlarmDefectSignData Finish
+10:04:58 LoseDetect Finish
+10:04:58 AnalyseBody 0 -> 12, btIndex = -1, Len = 13
+10:04:59 FilterByCombineSameTypePrev Finish
+10:04:59 Match Finish
+10:04:59 FilterByCombineSameType Finish
+IsTestEqu: 0
+10:04:59 FilterByHole Finish
+10:04:59 FilterByFork Finish
+10:04:59 FilterByCCHole Finish
+10:04:59 FilterBySkew Finish
+10:04:59 FilterBySmall Finish
+10:04:59 FilterBySameType Finish
+10:04:59 FilterBySmart Finish
+10:04:59 FilterByCombineHS Finish
+10:04:59 FilterByBackArea Finish
+10:04:59 FilterByFGWaist Finish
+10:04:59 FilterByHorizonalCrack Finish
+10:04:59 FilterByCombineFish Finish
+10:04:59 FilterByNoCR Finish
+10:04:59 FilterByVertical Finish
+10:04:59 FilterBottomCrack Finish
+10:04:59 Fish Finish
+10:04:59 reserve Finish
+10:04:59 Read DQFile Begin
+10:04:59 PointCount = 6004
+10:04:59 WaveFileSz=48032, sz=8, pointcount=6004
+10:04:59 Read DQFile Finish
+10:04:59 ParseER Finish
+10:04:59 FilterByER Finish
+10:04:59 FilterByDoubleHole Finish
+10:04:59 FilterByFork2 Finish
+10:04:59 AnalyseThread Finish
+10:04:59 GetResult2 Begin： fileCount = 0
+10:04:59 GetResult2 Finish

@@ -1,0 +1,68 @@
+﻿  stdafx.cpp
+d:\00-钢轨探伤\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\datasolveylib\dataentities.h(947): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CDlgWoundCompare.cpp
+  Coding.cpp
+  DlgLocate.cpp
+  ExcelHPE.cpp
+  MD5.cpp
+  PosJudge.cpp
+d:\00-钢轨探伤\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PosJudgeDlg.cpp
+d:\00-钢轨探伤\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(136): warning C4244: “参数”: 从“float”转换到“BYTE”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(347): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(380): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(482): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(574): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(576): warning C4018: “>=”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(595): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(606): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(637): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(713): warning C4018: “>=”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(730): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(870): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(873): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(954): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(959): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(964): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(984): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1086): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1100): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1106): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1112): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1118): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1119): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1119): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1190): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1201): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1206): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1220): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1221): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1228): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1230): warning C4018: “>”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1230): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1234): warning C4018: “>”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1239): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1275): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1276): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1278): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1302): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1304): warning C4018: “>”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1304): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1310): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1330): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1332): warning C4018: “>=”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1379): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1461): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1652): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1758): warning C4018: “<”: 有符号/无符号不匹配
+d:\00-钢轨探伤\datasolveny\judgeex\posjudgedlg.cpp(1786): warning C4018: “<”: 有符号/无符号不匹配
+  SHA.cpp
+  正在生成代码...
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  PosJudge.vcxproj -> D:\00-钢轨探伤\DataSolveNY\Release\测试软件v1.0.exe

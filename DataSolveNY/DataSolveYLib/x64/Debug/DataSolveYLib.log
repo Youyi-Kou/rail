@@ -1,0 +1,935 @@
+﻿F:\PF\VS2017Comm\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(DataSolveY.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  BaseException.cpp
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(40): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(204): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(218): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(218): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(220): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HMODULE”
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(223): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PIMAGE_DOS_HEADER”
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(224): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(227): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(227): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+f:\tfs\datasolveny\datasolveylib\baseexception.cpp(266): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+  CRHPE.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(205): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(301): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(473): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(473): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(496): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(530): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(548): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(584): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(605): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(626): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(673): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(718): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(736): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(781): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(878): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(889): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(916): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(942): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(981): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1110): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1187): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1340): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1341): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1496): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1600): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1637): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1689): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1700): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1707): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1728): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1765): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1772): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(1864): warning C4101: “e”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2148): warning C4244: “=”: 从“double”转换到“int16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2190): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2219): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2283): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2497): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2501): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2515): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2536): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2557): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2581): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2678): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2701): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2721): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2753): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2802): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2810): warning C4244: “+=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2826): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2837): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2838): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2841): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2842): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2844): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2850): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2851): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2855): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2878): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2888): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2899): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(2939): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3014): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3064): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3166): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3248): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3285): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3322): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3369): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3384): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3421): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3436): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3465): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3481): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3497): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3513): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3529): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3545): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3561): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3577): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3593): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3610): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3635): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3643): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3652): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3662): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3663): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3664): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3666): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3843): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3845): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(4102): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\crhpe.cpp(4104): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\pf\vs2017comm\vc\tools\msvc\14.16.27023\include\xmemory0(881): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=int
+          ]
+  f:\pf\vs2017comm\vc\tools\msvc\14.16.27023\include\vector(902): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64>(_Alloc &,_Objty *const ,unsigned __int64 &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+  f:\pf\vs2017comm\vc\tools\msvc\14.16.27023\include\vector(902): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64>(_Alloc &,_Objty *const ,unsigned __int64 &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+  f:\pf\vs2017comm\vc\tools\msvc\14.16.27023\include\vector(919): note: 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<unsigned __int64>(unsigned __int64 &&)”的引用
+          with
+          [
+              _Ty=int
+          ]
+  f:\tfs\datasolveny\datasolveylib\crhpe.cpp(3639): note: 参见对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<_Ty>>::emplace_back<unsigned __int64>(unsigned __int64 &&)”的引用
+          with
+          [
+              _Ty=int
+          ]
+  DataEntities.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DataQualityAnalyse.cpp
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(294): warning C4267: “=”: 从“size_t”转换到“UINT32”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(370): warning C4244: “+=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(384): warning C4244: “-=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(434): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(523): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(887): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1005): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1362): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1366): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1403): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1622): warning C4244: “=”: 从“int64_t”转换到“UINT32”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1688): warning C4244: “=”: 从“int64_t”转换到“UINT32”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(1729): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\dataqualityanalyse.cpp(518): warning C4101: “isForkError”: 未引用的局部变量
+  DataSolveLib.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(92): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(96): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(96): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(283): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(442): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(463): warning C4535: 调用 _set_se_translator() 需要 /EHa
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(682): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(773): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(797): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“DQRect **”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(797): warning C4313: “fprintf”: 格式字符串中的“%d”与“DQRect **”类型的参数 1 冲突
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(820): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(880): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(880): warning C4313: “fprintf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(923): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1147): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1177): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1177): note: 请考虑在格式字符串中使用“%zd”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1254): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1254): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1270): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1270): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1275): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1288): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1288): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1293): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1303): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1338): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1354): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1399): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1460): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1472): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1524): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1537): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1600): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1614): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1686): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1701): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1782): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1804): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1865): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1878): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1880): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1913): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1926): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1927): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1938): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(1994): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2031): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2045): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2071): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2071): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2074): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2086): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2106): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2111): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2158): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2176): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2216): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2228): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2246): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2259): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2300): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2312): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2324): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2349): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2350): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2355): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2380): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2381): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2385): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2390): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2423): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2423): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2441): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2553): warning C4101: “a”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2553): warning C4101: “b”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2641): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2730): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2914): warning C4311: “类型强制转换”: 从“HINSTANCE”到“int”的指针截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(2914): warning C4302: “类型强制转换”: 从“HINSTANCE”到“int”截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3032): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3046): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3069): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3073): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3088): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3093): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3102): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3104): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3104): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3109): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3111): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3111): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3064): warning C4101: “ba”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3182): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3185): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3186): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3334): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3347): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3353): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3408): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3412): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3444): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3468): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3489): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3512): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3585): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3654): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3678): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3694): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3857): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3869): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3940): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3945): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(3959): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4039): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4084): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4092): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4100): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4282): warning C4244: “参数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4285): warning C4244: “=”: 从“uint64_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4286): warning C4244: “=”: 从“uint64_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4395): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4490): warning C4244: “=”: 从“double”转换到“int16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4491): warning C4244: “=”: 从“double”转换到“int16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4522): warning C4305: “=”: 从“double”到“float”截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4531): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4532): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4620): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4633): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4722): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(4728): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5000): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5007): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5019): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5020): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5021): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5022): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5041): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5042): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5043): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5044): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5046): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5047): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5048): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5049): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5077): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5077): note: 请考虑在格式字符串中使用“%zd”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5087): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5218): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5219): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5237): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5237): note: 请考虑在格式字符串中使用“%zd”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5239): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5239): note: 请考虑在格式字符串中使用“%zd”
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5244): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5249): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5305): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5331): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5338): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5340): warning C4305: “参数”: 从“double”到“float”截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5358): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5367): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5376): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5378): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5415): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5424): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5433): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5442): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5444): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5459): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5474): warning C4311: “类型强制转换”: 从“HINSTANCE”到“int”的指针截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5474): warning C4302: “类型强制转换”: 从“HINSTANCE”到“int”截断
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5553): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5561): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5578): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5579): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5580): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5581): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5637): warning C4474: fprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5637): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5657): warning C4474: fprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5657): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5677): warning C4474: fprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5677): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5696): warning C4474: fprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\datasolvelib.cpp(5696): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+  GlobalDefine.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Judge.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\judge.cpp(138): warning C4244: “参数”: 从“_Ty”转换到“const unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=int16_t
+          ]
+f:\tfs\datasolveny\datasolveylib\judge.cpp(146): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(147): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(159): warning C4267: “参数”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(163): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(165): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(251): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(268): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(269): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(279): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(302): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(371): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(382): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(401): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(401): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(407): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(420): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(420): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(426): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(447): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(715): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(716): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(732): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(733): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(751): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(752): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(764): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(765): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(777): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(778): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(810): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(811): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(827): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(828): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(850): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(851): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(868): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(869): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(891): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(892): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(893): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(894): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(899): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(900): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(919): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(920): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(921): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(922): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(927): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(928): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1293): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1300): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1315): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1344): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1434): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1435): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1448): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1449): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1467): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1468): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1504): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1505): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1518): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1519): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1537): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1538): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1597): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1598): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1599): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1600): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1605): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1606): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1625): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1626): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1627): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1628): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1633): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1634): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1693): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1695): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1709): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1711): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1785): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1787): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1801): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(1803): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2009): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2010): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2027): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2028): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2040): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2041): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2053): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2054): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2078): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2079): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2096): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2097): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2118): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2119): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2161): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2162): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2163): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2164): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2169): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2170): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2189): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2190): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2191): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2192): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2197): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2198): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2236): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2245): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2399): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2454): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2470): warning C4244: “初始化”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2479): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2480): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2485): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2510): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2511): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2515): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2516): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2529): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2538): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2539): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2544): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2547): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2549): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2569): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2570): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2573): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2574): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2874): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2876): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2900): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2916): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2959): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2976): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(2999): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3016): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3056): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3142): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3159): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3291): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3307): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3323): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3373): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3384): warning C4244: “=”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3494): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3600): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3650): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3651): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3766): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3767): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3806): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3862): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3902): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(3947): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4119): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4282): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4301): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4549): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4886): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(4923): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5010): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5032): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5135): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5377): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5395): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5403): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5484): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5485): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5542): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5582): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5582): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5602): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5602): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5810): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5821): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5827): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5833): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5833): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5837): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5860): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5956): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(5962): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6020): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6021): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6053): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6201): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6217): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6381): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6382): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6410): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6423): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6445): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6447): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6479): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6525): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6527): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6610): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6681): warning C4305: “初始化”: 从“double”到“float”截断
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6687): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6760): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7230): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7258): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7272): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7314): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7347): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7400): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7450): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7556): warning C4244: “参数”: 从“double”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7557): warning C4244: “参数”: 从“double”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7558): warning C4244: “参数”: 从“double”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7559): warning C4244: “参数”: 从“double”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7560): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7693): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7814): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7898): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7931): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(7951): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6675): warning C4101: “pm”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\judge.cpp(6726): warning C4101: “bi”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8071): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8108): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8118): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8125): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8295): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8296): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8297): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8317): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8318): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8595): warning C4101: “e”: 未引用的局部变量
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8614): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8618): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8682): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8693): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8747): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8774): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8838): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8851): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8918): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8938): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8959): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(8980): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9010): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9054): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9075): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9145): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9149): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9161): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9183): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9246): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9253): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\judge.cpp(9286): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PositionHPE.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(52): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(58): warning C4244: “+=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(59): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(63): warning C4244: “+=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(64): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(104): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(105): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(126): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(149): warning C4267: “+=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(218): warning C4267: “+=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(227): warning C4267: “+=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(239): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(240): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(255): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(256): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(257): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(258): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(416): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(425): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(437): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(441): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(465): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(470): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(510): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(644): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(644): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(654): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(654): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(730): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(822): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1320): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1406): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1406): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1414): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1416): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1671): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1735): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1747): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1774): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(1961): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2025): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2048): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2064): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2149): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2165): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2183): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2208): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\positionhpe.cpp(2267): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PublicFunc.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(204): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(260): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(331): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(419): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(568): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(601): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(676): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(698): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(720): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(725): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(732): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(732): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(947): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(947): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(991): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1000): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1004): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1013): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1017): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1022): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1078): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1078): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1083): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1083): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\publicfunc.cpp(1175): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  SolveData.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(391): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(443): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1022): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1152): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1153): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1169): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1170): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\solvedata.cpp(1176): warning C4018: “<”: 有符号/无符号不匹配
+  StackWalker.cpp
+f:\tfs\datasolveny\datasolveylib\stackwalker.cpp(73): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  hole.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\hole.cpp(157): warning C4244: “初始化”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(211): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(221): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(240): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(255): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(419): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(510): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(515): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(573): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(578): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(588): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(623): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(628): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(638): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(667): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(675): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(724): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(731): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(741): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(748): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(870): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(893): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(894): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(984): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(987): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1185): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1228): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1229): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1257): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1261): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1286): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1307): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1321): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1376): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1380): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1405): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1427): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1448): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1481): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1493): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1541): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\hole.cpp(1541): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1576): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1598): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1728): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1746): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1798): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1856): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1857): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1858): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(1859): warning C4244: “参数”: 从“const uint16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2044): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2081): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2101): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2184): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2204): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2262): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2351): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2390): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2414): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2440): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2482): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2520): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2541): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2567): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2617): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2637): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2655): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\hole.cpp(2655): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2658): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2679): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2726): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2744): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\hole.cpp(2744): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2747): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2770): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2804): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2835): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2873): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2909): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(2967): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3075): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3088): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3331): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3338): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3351): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3388): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3388): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3398): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3398): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3430): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3433): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3437): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3441): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3441): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3457): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3460): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3464): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3468): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3505): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3512): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3520): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3535): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3538): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3548): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3723): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3848): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3861): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3868): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3907): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(3928): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4042): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4083): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4100): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4120): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4165): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4186): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4211): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4220): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4256): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4270): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4281): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4334): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4354): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4364): warning C4244: “参数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4407): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4419): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4456): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4479): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4521): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4529): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4537): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4545): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4553): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4561): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\hole.cpp(4594): warning C4244: “=”: 从“int16_t”转换到“int8_t”，可能丢失数据
+  holeCore.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(94): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(150): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(165): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(186): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(188): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(201): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(203): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(273): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(282): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(297): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(299): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(312): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(389): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(403): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(424): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(426): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(440): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(442): warning C4018: “<=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(512): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(524): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(539): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(554): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(617): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(703): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(741): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(778): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\holecore.cpp(778): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(781): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(801): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(841): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(883): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(981): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1026): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\holecore.cpp(1026): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1029): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1091): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1166): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1253): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1276): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1302): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1352): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1431): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1454): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1479): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1526): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1555): warning C4474: sprintf: 格式字符串中传递的参数太多
+  f:\tfs\datasolveny\datasolveylib\holecore.cpp(1555): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1558): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1596): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+f:\tfs\datasolveny\datasolveylib\holecore.cpp(1633): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+  正在生成代码...
+  dllmain.cpp
+    正在创建库 F:\TFS\DataSolveNY\x64\Debug\DataSolve.lib 和对象 F:\TFS\DataSolveNY\x64\Debug\DataSolve.exp
+  DataSolveYLib.vcxproj -> F:\TFS\DataSolveNY\x64\Debug\DataSolve.dll

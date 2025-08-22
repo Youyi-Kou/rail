@@ -1,0 +1,11 @@
+﻿DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_AlgInit，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_SetFile，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_SetChannelOffset，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_BeginAnalyse，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_GetAnalyseProcess，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_GetWalk，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_GetSolveInfoItemCount，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_GetSolveInfo，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_SolveTPA，该符号在函数 main 中被引用
+DataSolveTest_Console.obj : error LNK2019: 无法解析的外部符号 __imp_SolveTPB，该符号在函数 main 中被引用
+D:\00-钢轨探伤\DataSolveNY\x64\Debug\DataSolveTest_Console.exe : fatal error LNK1120: 10 个无法解析的外部命令

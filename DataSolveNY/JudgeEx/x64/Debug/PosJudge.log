@@ -1,0 +1,92 @@
+﻿  stdafx.cpp
+f:\tfs\datasolveny\datasolveylib\dataentities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\datadefine.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\datasolveylib\dataentities.h(953): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CDlgWoundCompare.cpp
+  Coding.cpp
+  DlgLocate.cpp
+  ExcelHPE.cpp
+  MD5.cpp
+  PosJudge.cpp
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\judgeex\posjudge.cpp(84): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+  PosJudgeDlg.cpp
+f:\tfs\datasolveny\datasolveylib\dataentitiesfornode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(136): warning C4244: “参数”: 从“float”转换到“BYTE”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(155): warning C4302: “类型强制转换”: 从“short *”到“short”截断
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(334): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CStringA”
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(331): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(367): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(445): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(444): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(469): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(459): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(468): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(530): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(538): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(561): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(563): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(560): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(582): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(593): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(580): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(592): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(624): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(700): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(717): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(877): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(935): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(946): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(967): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1051): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1069): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1083): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1089): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1095): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1101): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1102): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1102): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1184): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1189): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1203): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1204): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1211): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1213): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1213): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1217): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1222): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1258): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1261): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1285): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1287): warning C4018: “>”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1287): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1293): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1313): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1315): warning C4018: “>=”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1362): warning C4018: “<”: 有符号/无符号不匹配
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1444): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1635): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\tfs\datasolveny\judgeex\posjudgedlg.cpp(1769): warning C4018: “<”: 有符号/无符号不匹配
+  SHA.cpp
+f:\tfs\datasolveny\judgeex\sha.cpp(8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+f:\tfs\datasolveny\judgeex\sha.cpp(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  正在生成代码...
+  PosJudge.vcxproj -> F:\TFS\DataSolveNY\x64\Debug\测试软件v1.0.exe
