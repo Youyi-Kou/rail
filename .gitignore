@@ -5,4 +5,32 @@
 !DataSolveNY/
 
 # 不忽略.gitignore文件本身
+!.gitignore
 !210511Q0823DLN_0000_PT66666.ptB
+
+# 但是忽略Visual Studio缓存文件和临时文件
+DataSolveNY/.vs/
+DataSolveNY/**/Debug/
+DataSolveNY/**/Release/
+DataSolveNY/**/x64/
+DataSolveNY/**/*.ipch
+DataSolveNY/**/*.pch
+DataSolveNY/**/*.obj
+DataSolveNY/**/*.pdb
+DataSolveNY/**/*.idb
+DataSolveNY/**/*.ilk
+DataSolveNY/**/*.exp
+DataSolveNY/**/*.lib
+DataSolveNY/**/*.dll
+DataSolveNY/**/*.exe
+DataSolveNY/**/*.iobj
+DataSolveNY/**/*.ipdb
+DataSolveNY/**/*.tlog
+DataSolveNY/**/*.log
+DataSolveNY/**/*.res
+DataSolveNY/**/*.aps
+DataSolveNY/**/*.suo
+DataSolveNY/**/*.db
+DataSolveNY/**/*.sqlite
+DataSolveNY/**/*.user
+DataSolveNY/**/*.enc
