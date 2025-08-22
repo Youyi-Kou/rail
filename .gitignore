@@ -1,0 +1,8 @@
+# 忽略所有文件和目录
+*
+
+# 但不忽略DataSolveNY目录及其内容
+!DataSolveNY/
+
+# 不忽略.gitignore文件本身
+!.gitignore
